@@ -34,7 +34,7 @@ pipeline = None
 async def startup():
     global pipeline
     api_key = os.environ.get("OPENAI_API_KEY")
-    pdf_dir = os.environ.get("PDF_DIRECTORY", "./pdfs")
+    pdf_dir = os.environ.get("PDF_DIRECTORY", "./HDFC_")
     
     if not api_key:
         logger.error("OPENAI_API_KEY environment variable not set")
