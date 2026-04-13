@@ -1,0 +1,19 @@
+# Core pipeline
+openai==1.78.1
+chromadb==0.4.22
+pdfplumber==0.11.6
+pandas==2.2.3
+numpy==1.26.4
+tiktoken==0.9.0
+
+# Web frameworks (choose one)
+streamlit==1.45.0       # For quick UI
+fastapi==0.115.0        # For production API
+uvicorn==0.30.0         # ASGI server for FastAPI
+
+# Evaluation
+ragas==0.1.10
+datasets==2.19.0
+
+# Utilities
+python-dotenv==1.0.1    # Load .env files
