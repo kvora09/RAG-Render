@@ -3,7 +3,7 @@
 
 > **Ask questions about insurance policies in plain English. Get precise, cited answers instantly.**
 
-A **Retrieval-Augmented Generation (RAG)** pipeline deployed as a production API with a web frontend. Upload insurance policy PDFs, ask any question, and receive accurate answers with source citations — powered by OpenAI, ChromaDB, and FastAPI.
+A **Retrieval-Augmented Generation (RAG)** pipeline deployed as a production API with a web frontend. Upload insurance policy PDFs, ask any question, and receive accurate answers with source citations powered by OpenAI, ChromaDB, and FastAPI.
 
 🔗 **Live App:** [rag-render-vsxx.onrender.com](https://rag-render-vsxx.onrender.com)
 📡 **API Docs:** [rag-render-vsxx.onrender.com/docs](https://rag-render-vsxx.onrender.com/docs)
